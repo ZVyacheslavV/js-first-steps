@@ -1,3 +1,9 @@
+#Ігнорувати всі .txt файли
+*.txt
+
+secret.md
+
+
 # Logs
 logs
 *.log
