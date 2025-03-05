@@ -1,3 +1,3 @@
 # js-first-steps
 
-//First changes to readme
+First changes to readme
