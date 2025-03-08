@@ -4,7 +4,7 @@
 #My inclusions
 secret.md
 test.js
-prettierrc.json
+.prettierrc.json
 settings.json
 
 # Logs
