@@ -1,8 +1,11 @@
 #Ігнорувати всі .txt файли
 *.txt
 
+#My inclusions
 secret.md
 test.js
+prettierrc.json
+settings.json
 
 # Logs
 logs
